@@ -1,2 +1,2 @@
-# elephant
-Postgres desktop client
+# Elephant
+A desktop client for PostgreSQL
